@@ -19,3 +19,9 @@ The analysis involved constructing and evaluating portfolios composed of various
 
 Upon completing the analysis for the investment firms, I extended the same methodology to Indian banks, including SBI, HDFC, Punjab National Bank, and Axis Bank. The process involved using the Monte Carlo simulation to forecast stock prices and applying the same risk-return optimization techniques to determine the optimal portfolio. This expansion allowed for a broader application of the model, offering insights into both global investment firms and major Indian financial institutions, thereby providing a comprehensive approach to portfolio optimization across different markets.
 ![image](https://github.com/user-attachments/assets/111072a6-d8a0-40fa-b642-949ac91734b3)
+
+![image](https://github.com/user-attachments/assets/ae5e5cb3-f913-4962-ac42-314cf01e7afb)
+# Return Vs Volatility for Indian Banks
+![image](https://github.com/user-attachments/assets/373c05ab-c49c-46a2-a812-159d289d6e33)
+
+
